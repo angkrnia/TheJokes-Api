@@ -1,33 +1,33 @@
 const jokes = [
 	{
-		body: 'Ini adalah joke 1',
+		body: 'Kucing apa yang kuno? Kucinggalan Jaman.',
 	},
 	{
-		body: 'Ini adalah joke 2',
+		body: 'Mengapa kuda tidak bisa bermain game komputer? Karena tidak punya mouse.',
 	},
 	{
-		body: 'Ini adalah joke 3',
+		body: 'Kenapa ada hukum bahwa kamu tidak boleh memberi tikus keju? Karena tikus akan menjadi cheese-a-holic.',
 	},
 	{
-		body: 'Ini adalah joke 4',
+		body: 'Kenapa kamu tidak boleh memberikan kertas kepada seekor monyet? Karena dia akan menjadi monkey business.',
 	},
 	{
-		body: 'Ini adalah joke 5',
+		body: 'Kenapa orang Jepang tidak boleh bermain bola dengan seekor panda? Karena panda tidak bisa membedakan antara gol dan goalee.',
 	},
 	{
-		body: 'Ini adalah joke 6',
+		body: 'Gajah apa yang belalainya pendek? Gajah pesek.',
 	},
 	{
-		body: 'Ini adalah joke 7',
+		body: 'Ayam-ayam apa yang paling besar? Ayam semesta.',
 	},
 	{
-		body: 'Ini adalah joke 8',
+		body: 'Kalo Anda diselimuti masalah berarti anda manusia kalau diselimuti wijen berarti onde-onde.',
 	},
 	{
-		body: 'Ini adalah joke 9',
+		body: 'Kenapa seorang koki tidak boleh minum kopi? Karena dia akan mengalami "caffeine-cooking"',
 	},
 	{
-		body: 'Ini adalah joke 10',
+		body: 'Kenapa nyamuk bunyinya nguung? Karena dia minumnya darah, coba kalo minum bensin bunyinya jadi bruuum.',
 	}
 ];
 
